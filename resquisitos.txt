@@ -1,0 +1,10 @@
+O sistema deve autenticar o usuario
+O sistema deve alocar o veiculo mais proximo
+O usuario deve solicitar uma viagem por aplicativo
+
+
+
+
+
+
+
